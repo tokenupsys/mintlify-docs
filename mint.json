@@ -42,14 +42,9 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Cheat Information",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "c-info/setup"
       ]
     }
   ],
