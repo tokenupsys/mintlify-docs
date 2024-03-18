@@ -45,7 +45,8 @@
       "group": "Cheat Information",
       "pages": [
         "c-info/setup",
-        "c-info/downgrade"
+        "c-info/downgrade",
+        "c-info/smgloader"
       ]
     }
   ],
