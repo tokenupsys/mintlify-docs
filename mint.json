@@ -44,7 +44,8 @@
     {
       "group": "Cheat Information",
       "pages": [
-        "c-info/setup"
+        "c-info/setup",
+        "c-info/downgrade"
       ]
     }
   ],
