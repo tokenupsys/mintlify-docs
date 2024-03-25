@@ -18,7 +18,7 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:support@lonelyshop.lol"
     }
   ],
   "topbarCtaButton": {
@@ -46,13 +46,18 @@
       "pages": [
         "c-info/setup",
         "c-info/downgrade",
-        "c-info/smgloader"
+        "c-info/smgloader",
+        "c-info/absloader",
+        "c-info/kddropper",
+        "c-info/apexglowfull",
+        "c-info/zerohook",
+        "c-info/unkown"
       ]
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "twitter": "https://twitter.com/",
+    "github": "https://github.com/",
+    "linkedin": "https://www.linkedin.com/"
   }
 }
