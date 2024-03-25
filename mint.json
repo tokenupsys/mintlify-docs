@@ -1,0 +1,63 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "Lonelyshop",
+  "logo": {
+    "dark": "/favicon.png",
+    "light": "/favicon.png"
+  },
+  "favicon": "/favicon.png",
+  "colors": {
+    "primary": "#0D9373",
+    "light": "#07C983",
+    "dark": "#0D9373",
+    "anchors": {
+      "from": "#0D9373",
+      "to": "#07C983"
+    }
+  },
+  "topbarLinks": [
+    {
+      "name": "Support",
+      "url": "mailto:support@lonelyshop.lol"
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "Discord",
+    "url": "https://discord.gg/lonelyshop"
+  },
+  "anchors": [
+    {
+      "name": "Sellix Shop",
+      "icon": "book-sparkles",
+      "url": "https://lonelyscheddarshop.mysellix.io/"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Getting Started",
+      "pages": [
+        "introduction",
+        "whoarewe",
+        "faq"
+      ]
+    },
+    {
+      "group": "Cheat Information",
+      "pages": [
+        "c-info/setup",
+        "c-info/downgrade",
+        "c-info/smgloader",
+        "c-info/absloader",
+        "c-info/kddropper",
+        "c-info/apexglowfull",
+        "c-info/zerohook",
+        "c-info/unkown"
+      ]
+    }
+  ],
+  "footerSocials": {
+    "twitter": "https://twitter.com/",
+    "github": "https://github.com/",
+    "linkedin": "https://www.linkedin.com/"
+  }
+}
